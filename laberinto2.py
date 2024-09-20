@@ -1,3 +1,6 @@
+#Aldo Alcantara Martinez  Boleta:2019630578
+#Grupo: 6CV3
+
 class Stack:
     """Implementación simple de una pila (stack)"""
     def __init__(self):
